@@ -1,0 +1,27 @@
+.phone{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+
+}
+.img{
+flex: 0 0 100px;
+margin-right: 20px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    margin: 3px;
+
+}
+.city{
+    color: blue;
+}
